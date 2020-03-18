@@ -14,5 +14,5 @@ You will also see any lint errors in the console.
 
 ### `Screenshot`
 
-![reactapp](src/images/reactapp.png)
+![reactapp](https://github.com/4nmolChaudhary/A-Better-React-ToDo-APP/blob/master/images/reactapp.png)
 
